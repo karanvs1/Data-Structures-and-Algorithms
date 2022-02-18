@@ -1,4 +1,3 @@
-#partition the linked list
 from LinkedList import LinkedList
 from LinkedList import Node
 
